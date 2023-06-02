@@ -5,7 +5,7 @@
       "name": "John Smith",
       "login": "JohnSmith",
       "password": "Qwerty11",
-      "photoUrl": "https://unsplash.com/photos/zO_A23noPpA"
+      "photoUrl": "http://source.unsplash.com/zO_A23noPpA"
     }
   ,
   "transactions": [
