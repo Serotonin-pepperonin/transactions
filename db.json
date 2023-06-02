@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "login": "JohnSmith",
+      "password": "Qwerty11",
+      "photoUrl": "https://unsplash.com/photos/zO_A23noPpA"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "date": "01.05.2023",
+      "type": "expense",
+      "total": 200,
+      "source": "bills"
+    },
+    {
+      "id": 2,
+      "date": "02.05.2023",
+      "type": "expense",
+      "total": 150,
+      "source": "subscriptions"
+    },
+    {
+      "id": 3,
+      "date": "05.05.2023",
+      "type": "expense",
+      "total": 30,
+      "source": "taxi"
+    },
+    {
+      "id": 4,
+      "date": "05.05.2023",
+      "type": "expense",
+      "total": 50,
+      "source": "food delivery"
+    },
+    {
+      "id": 5,
+      "date": "07.05.2023",
+      "type": "income",
+      "total": 20,
+      "source": "movie theater"
+    },
+    {
+      "id": 6,
+      "date": "15.05.2023",
+      "type": "income",
+      "total": 800,
+      "source": "salary"
+    },
+    {
+      "id": 7,
+      "date": "17.05.2023",
+      "type": "expense",
+      "total": 200,
+      "source": "video games"
+    },
+    {
+      "id": 8,
+      "date": "20.05.2023",
+      "type": "expense",
+      "total": 300,
+      "source": "grocery store"
+    },
+    {
+      "id": 9,
+      "date": "01.05.2023",
+      "type": "expense",
+      "total": 500,
+      "source": "gas"
+    }
+  ]
+}
