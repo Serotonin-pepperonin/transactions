@@ -12,9 +12,9 @@
     {
       "id": 1,
       "date": "01.05.2023",
-      "type": "expense",
-      "total": 200,
-      "source": "bills"
+      "type": "income",
+      "total": 2000,
+      "source": "salary"
     },
     {
       "id": 2,
